@@ -30,7 +30,7 @@
 	</article>
 
 	<article>
-		<h2>Background</h1>
+		<h2>Background</h2>
 		<p>I am a native to Los Angeles, California. I do not really know why I thought coming to school in New York would be a good idea but it somehow ended up happening because I think I thought I could handle the snow. I am now fed up with the snow but I do love the University of Rochester and do believe that I ended up where I was meant to. I originally came to UR, I planned to double major in Business and Computer Science and minor in Political Science but after taking a few classes and finding out what I really enjoyed, I decided to major in Business and move Computer Science to a minor and pick up a Spanish minor.</p>
 	</article>
 
