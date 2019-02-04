@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-<<<<<<< HEAD:lab02/jack.php
 		<?php include 'includes/head.php';?>
 		<title>Student | Jack D Dalton | Lab 1: Initial Personal Website</title>
 	</head>
@@ -23,29 +22,6 @@
 			</ul>
 		</aside>
 
-=======
-		<meta charset="utf-8">		
-<link rel="stylesheet"  href="./css/styles.css">
-	<title>Student | Jack D Dalton | Lab 1: Initial Personal Website</title>
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700%7CStaatliches" rel="stylesheet">
-</head>
-
-<body class="container">
-		<header>
-			<a href="./index.php">
-				<h1>Jack Dalton</h1>
-				<img src="././images/jack_clubs.jpg" alt="Jack">
-			</a>	
-		</header>		
-<aside>
-	<ul>
-		<li>Mechanical Engineering major</li> 
-		<li>Computer Science minor</li> 
-		<li>Graduating in 2020</li>
-	</ul>
-
-</aside>
->>>>>>> master:lab02/jack.html
 		<article>
 			<p>	I am a Mechanical Engineering major at the University of Rochester, and I am also minoring in Computer Science. I am very interested in how the world works, and I find both theoretical research and its application interesting. However, I decided to major in Mechanical Engineering because the idea of building something that could impact others interests me, which is why I also decided to minor in computer science. So far at UofR, I have taken the following courses: CSC 170, CSC 171, CSC 172, CSC 214, and CSC 240. Additionally, I have been a CHM 132 Lab Teacher Assistant, and I am currently a CSC 240/440 TA. 
 			</p>
@@ -74,23 +50,6 @@
 			CSC 174: Advanced Front-end Web 
 			Design and Development
 		</footer>		
-<<<<<<< HEAD:lab02/jack.php
-=======
-
-<nav>
-	<ul>
-		<li>
-			<a href="./index.php">Home</a>
-		</li>
-		
-		<li>
-			<a href="./early_life.php">Early Life</a>
-		</li>
-		
-		<li>
-			<a href="./work_life.php">Work Life</a>
-		</li>
->>>>>>> master:lab02/jack.html
 		
 	<?php include 'includes/scripts.php';?>
 </body>
