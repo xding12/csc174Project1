@@ -60,7 +60,7 @@
                 more on Back End technologies and was a great complement to CSC 170.
             </p>
             
-        <article>
+        </article>
 
        	<article>        
             <h2>Future Plans</h2>
@@ -70,7 +70,7 @@
                 business there.
             </p>
             
-        <article>
+        </article>
 
         <?php include 'includes/nav.php';?>
 
