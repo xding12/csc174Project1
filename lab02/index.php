@@ -10,7 +10,7 @@
 
     <header>
         <a href="index.php">
-            <h1>Lab 02</h1>
+            <h1>Lab 02: Flash Website</h1>
         </a>
     </header>
 
