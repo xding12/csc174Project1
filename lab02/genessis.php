@@ -41,7 +41,7 @@
 
 	<article>
 
-		<h2>Extracurriculars</h3>
+		<h2>Extracurriculars</h2>
 		<p>Upon arriving to UR, I also got involved in extracurricular activities. My freshman year, I got involved with Students’ Association (SA) and served on the Administration & Review Committee (ARC) as a Student Analyst, rushed Alpha Kappa Psi (AKPsi) (a business professional co-ed fraternity) and became Vice President of Alumni Relations, a general member on the Student Programming Board, and a general member of Gamma Phi Beta (GPB) (a social sorority). Moving into my sophomore year, I was elected to the 2020 Class Council and served as a Programming Chair, continued to serve as Vice President of Alumni Relations for AKPsi, was appointed Deputy Chair of ARC, served as Corresponding Secretary for GPB, and I also was a D’Lion. I am currently in my junior year where I am now Vice President of 2020 Class Council, dual as Chairwoman of Collegiate & Alumni Relations and Chairwoman of Community Service for GPB, continue to serve as a Student Analyst for ARC, a second year D’Lion, and Social Chair for Alpha Kappa Psi. I plan to remain actively involved in all of my extracurricular activities throughout the remainder of my college experience as I have learned many important and valuable experiences through them.</p>
 	</article>
 
@@ -50,6 +50,7 @@
 		CSC 174: Advanced Front-end Web
 		Design and Development
 	</footer>
-	</body>
 	<?php include 'includes/scripts.php';?>
+	</body>
+	
 </html>
