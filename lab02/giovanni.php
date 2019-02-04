@@ -2,10 +2,7 @@
 <html lang="en">
     <head>
         <?php include 'includes/head.php';?>
-
         <title>Giovanni Ilacqua | Lab 2: Personal Website</title>
-
-    	
     </head>
 
     <body class="container">
@@ -51,7 +48,7 @@
             
         </article>
 
-            <article>
+        <article>
             <h2>Courses</h2>
             <p>In my Fall semester I took 5 classes: CAS 170 which is a class for international students regarding the American
                 culture, CSC 240 Data Mining which was quite interesting but I realized that it is not an area I want to expand on,
@@ -73,15 +70,9 @@
         </article>
 
         <?php include 'includes/nav.php';?>
-
         <footer>
             CSC 174: Advanced Front-end Web Design and Development
         </footer>
-
-        
-
         <?php include 'includes/scripts.php';?>
     </body>
-
-
 </html>
