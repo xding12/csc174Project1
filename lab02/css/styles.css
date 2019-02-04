@@ -48,6 +48,8 @@ header h1 {
     margin-left: 40px;
 }
 
+.gene
+
 h1{
     font-family: 'Staatliches', cursive;
     font-size: 38px;
@@ -61,7 +63,7 @@ aside{
     font-style: italic;
     grid-column: 2/4;
     font-size: 24px;
-
+    margin-left: 30px;
     padding-top: 205px;
 }
 
@@ -77,7 +79,7 @@ aside li{
 
 article {
     grid-column: 1/4;
-    margin: 30px 0px;
+    margin: 0px 0px;
 }
 
 footer{
