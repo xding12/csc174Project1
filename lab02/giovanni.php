@@ -1,11 +1,9 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Student | Giovanni Ilacqua | Lab 1: Initial Personal Website</title>
-<link rel="stylesheet" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700%7CStaatliches" rel="stylesheet">
+    <?php include 'includes/head.php';?>
+
+    <title>Student | Giovanni Ilacqua | Lab 1: Initial Personal Website</title>
+
 	
 </head>
 
@@ -68,7 +66,8 @@
         
     <article>
 
-   	<article>        <h2>Future Plans</h2>
+   	<article>        
+        <h2>Future Plans</h2>
         <p>I am enjoying my experience at Rochester so much that I am considering transferring and finishing my degree there.
             Although the transfer process is quite complex for my situation, since I am a third year student, I believe it will
             be worth graduating in the US. Especially considering my goal to eventually move to California and create a
@@ -77,21 +76,15 @@
         
     <article>
 
-<footer>
+    <?php include 'includes/nav.php';?>
+
+    <footer>
         CSC 174: Advanced Front-end Web Design and Development
     </footer>
 
-    <nav>
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="extra-curriculars.php">Extra Curriculars</a></li>
-            <li><a href="courses.php">Courses</a></li>
-            <li><a href="future-plans.php">Future Plans</a></li>
-        </ul>
-    </nav>
+    
 
-<script src="https://code.jquery.com/jquery.js"></script>
-<script src="js/menu-highlighter.js"></script>
+    <?php include 'includes/scripts.php';?>
 </body>
 
 

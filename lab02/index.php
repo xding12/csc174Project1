@@ -2,13 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home | Lab 2: Flash Website</title>
-    <link rel="stylesheet" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700%7CStaatliches" rel="stylesheet">
-	
+    <?php include 'includes/head.php';?>
+    <title>Home | Lab 2: Flash Website</title>   
 </head>
 
 <body class="container">
@@ -41,23 +36,15 @@
         <h2>Jack Dalton</h2>
         <p> I am a Mechanical Engineering major at the University of Rochester, and I am also minoring in Computer Science. I am very interested in how the world works, and I find both theoretical research and its application interesting. However, I decided to major in Mechanical Engineering because the idea of building something that could impact others interests me, which is why I also decided to minor in computer science. So far at UofR, I have taken the following courses: CSC 170, CSC 171, CSC 172, CSC 214, and CSC 240. Additionally, I have been a CHM 132 Lab Teacher Assistant, and I am currently a CSC 240/440 TA.</p>
     </article>
-    <nav>
-        <ul>
-            <li><a href="future-plans.php">Home</a></li>
-            <li><a href="index.php">Giovanni Ilacqua</a></li>
 
-            <li><a href="extra-curriculars.php">Genessis Galindo</a></li>
-            <li><a href="courses.php">Jack Dalton</a></li>
-        </ul>
-    </nav>
+    <?php include 'includes/nav.php';?>
 
 
     <footer>
         CSC 174: Advanced Front-end Web Design and Development
     </footer>
 
-<script src="https://code.jquery.com/jquery.js"></script>
-<script src="js/menu-highlighter.js"></script>
+    <?php include 'includes/scripts.php';?>
 </body>
 
 
