@@ -5,7 +5,7 @@
 		<?php include 'includes/head.php';?>
 
 
-		<title>Genessis Galindo | Lab 1: Initial Personal Website</title>
+		<title>Genessis Galindo | Lab 2: Personal Website</title>
 		
 	</head>
 	<body class = "container">

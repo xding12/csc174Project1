@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include 'includes/head.php';?>
-		<title>Student | Jack D Dalton | Lab 1: Initial Personal Website</title>
+		<title>Jack Dalton | Lab 2: Personal Website</title>
 	</head>
 	
 	<body class="container">

@@ -3,7 +3,7 @@
     <head>
         <?php include 'includes/head.php';?>
 
-        <title>Student | Giovanni Ilacqua | Lab 1: Initial Personal Website</title>
+        <title>Giovanni Ilacqua | Lab 2: Personal Website</title>
 
     	
     </head>
