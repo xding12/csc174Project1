@@ -22,12 +22,7 @@
             <li>Qualified Fitness Instructor</li>
             <li>Graphic Designer</li>
         </ul>
-    </aside>
-
-
-
-
-    
+    </aside>    
 
     <article>
         <p>I was born in Sicily in the city of Messina but I moved to Milan when I was 3 years old. After studying Information
