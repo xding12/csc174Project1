@@ -31,23 +31,23 @@
     </article>
 
     <article>
-        <h2>Genessis's Title</h2>
+        <h2>Programming Languages</h2>
         <ul>
-            <li>Topic 1</li>
-            <li>Topic 2</li>
-            <li>Topic 3</li>
+            <li>C</li>
+            <li>Python</li>
+            <li>Java</li>
         </ul>
-        <p>Enter sample text from "similarities" paragraph here</p>
+        <p>There are three programming languages that will be discussed in this lab- C, Python, and Java. Each of these programming languages have allowed for revolutionary developments in the programming field.</p>
     </article>
 
     <article>
-        <h2>Jack's Title</h2>
+        <h2>Cats and their Similarities</h2>
         <ul>
-            <li>Topic 1</li>
-            <li>Topic 2</li>
-            <li>Topic 3</li>
+            <li>Felus catus - Common Cat</li>
+            <li>Puma concolor - Cougar</li>
+            <li>Lynx pardinus - Iberian Lynx</li>
         </ul>
-        <p>Enter sample text from "similarities" paragraph here</p>
+        <p>I have decided to include three different animals belonging to the subfamily Felinae. These species were chosen because they are genetically similar, but are considered very different animals in common opinion.</p>
     </article>
 
     
