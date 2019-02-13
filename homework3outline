@@ -1,0 +1,154 @@
+# Overall:
+
+-   **domain**: Visual entertainment, programming languages, and cats are all things that people can interact with in their spare time. Whether that be watching something, writing your own code, or petting a feline friend, there's something here for everyone.
+-   **ontology** 
+		- All of these are things people interact with in their spare time.
+		- Each of these has three sections, each giving an overview with one paragraph.
+		- Each of the talks about the history of the topics.
+		- Each of these talks about present uses and impacts of the topic.
+-   **taxonomy**: See headings below. Three headings for each topic.
+-   **choreography**: Three page website, with the current content.
+
+
+---
+
+# The Evolution of Visual Entertainment
+
+Theatre, Cinema and Television are forms of visual entertainment were the audience watches a show or a performance. They are different medias through which a story can be narrated and represented. Each form of entertainment makes use of technology to enhance the visual representations. Cinema and Television make the most use of technology such as CGI and Special Effect. However, Theatre too can incorporate modern technologies such as projectors and digital screens to astonish and further immerse the audience in the narration.
+
+## Theatre - Since 600 BCE
+
+### The origins
+
+The origins of theatre in ancient Greece, according to Aristotle, the first theoretician of theatre, are to be found in the festivals that honoured Dionysus. The performances were given in semi-circular auditoria cut into hillsides, capable of seating 10,000–20,000 people. The stage consisted of a dancing floor (orchestra), dressing room and scene-building area (skene). Since the words were the most important part, good acoustics and clear delivery were paramount. The actors were only always men and wore masks appropriate to the characters they represented, and each might play several parts.
+
+### Modern Day
+
+Twentieth-century theatre describes a period of great change within the theatrical culture of the 20th century, mainly in Europe and North America. There was a widespread challenge to long-established rules surrounding theatrical representation; resulting in the development of many new forms of theatre, including modernism, Expressionism, Impressionism, political theatre and other forms of Experimental theatre, as well as the continuing development of already established theatrical forms like naturalism and realism.
+
+### Impacts
+Theater can be used as an instrument for change: Nowadays, social media and video are probably a more effective tool to effect change in society, but there is no media that can cause a bigger impact than theater. Watching a live performance is much more likely to compel you to act for change. The work of theorists like Bertolt Brecht and Augusto Boal is pretty much completely based on this idea, and companies like The Red Room in the UK and many others I´m sure are constantly trying to use theater for this purpose. I don´t remember how the quote went, but I once heard about somebody comparing theater to a hammer that could be used to shape society.
+
+## Cinema - Since 1895
+
+### The origins
+
+The commercial public screening of ten of Lumière brothers' short films in Paris on 28 December 1895 can be regarded as the breakthrough of projected cinematographic motion pictures. There had been earlier cinematographic results and screenings but these lacked either the quality or the momentum that propelled the cinématographe Lumière into a worldwide success. Soon film production companies were established all over the world. The first decade of motion picture saw film moving from a novelty to an established mass entertainment industry. The earliest films were in black and white, under a minute long and without recorded sound.
+
+### Modern Day
+
+The decade of the 2000s in film involved many significant developments in the film industries around the world, especially in the technology used. Building on developments in the 1990s, computers were used to create effects that would have previously been more expensive, from the subtle erasing of surrounding islands in Cast Away (leaving Tom Hanks' character stranded with no other land in sight) to the vast battle scenes such as those in Gladiator, The Lord of the Rings trilogy, The Matrix Reloaded, and 300. Also gaining popularity was the use of computer-generated imagery (CGI) to produce films. These types of films were originally seen in the 1990s with the likes of Toy Story, and Antz.
+
+### Impacts
+
+Cinema films have the power to influence the thinking of the people. They have changed the society and social trends. They have introduced new fashions in society. They may be described as pace-setters. They can create a direct impact on our social life. Films can go a long way towards arousing national consciousness and also in utilizing the energies of the youth in social reconstruction and nation-building by a skillful adaption of good moral, social and educative themes, and by introduction of popular sentiments, films can, to a great extent, formulate and guide public opinion.Because of their audio visual appeal cinema films are the most powerful means of publicity and advertisement. Small publicity pictures or skits when shown on the screen easily catch the imagination of spectators. The cinema has so far remained unchanged as the most popular audio-visual mass medium, but now with the arrival of television and its impressive pace of advancement, the cinema can no longer afford the luxury of complacence. It has, therefore, to improve its performance and to maintain a high standard.  
+
+
+## Television - Since 1920
+
+### The origins
+
+Television became available in crude experimental forms in the late 1920s, but it would still be several years before the new technology would be marketed to consumers. After World War II, an improved form of black-and-white TV broadcasting became popular in the United States and Britain, and television sets became commonplace in homes, businesses, and institutions. During the 1950s, television was the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the US and most other developed countries.
+
+### Modern Day
+
+Digital television (DTV) is the transmission of audio and video by digitally processed and multiplexed signals, in contrast to the totally analog and channel separated signals used by analog television. Due to data compression digital TV can support more than one program in the same channel bandwidth. It is an innovative service that represents the first significant evolution in television technology since color television in the 1950s. Digital TV's roots have been tied very closely to the availability of inexpensive, high performance computers. It was not until the 1990s that digital TV became feasible.
+
+### Impacts
+
+Between the 1940s and 2000s, commercial television had a profound and wide-ranging impact on American society and culture. It influenced the way that people think about such important social issues as race, gender, and class. It played an important role in the political process, particularly in shaping national election campaigns. TV programs and commercials have also been mentioned as major factors contributing to increased American materialism (a view that places more value on acquiring material possessions than on developing in other ways). Finally, television helped to spread American culture around the world.
+
+
+# Programming Languages
+
+C, Python, and Java are programming languages have allowed for revolutionary developments in the programming field. Programming in general is beginning to become more prominent in society and these are the three languages that tend to be most common and the ones that people tend to learn first. C has been around since 1972 and was designed by Dennis Ritchie, Python has been around since 1990 and was designed by Guido van Rossum, and Java has been around since 1995 and was designed by James Gosling.
+
+## C
+
+### History
+
+The origin of C is closely tied to the development of the Unix operating system, originally implemented in assembly language on a PDP-7 by Dennis Ritchie and Ken Thompson, incorporating several ideas from colleagues. Unix was one of the first operating system kernels implemented in a language other than assembly. In around 1977, Ritchie and Stephen C. Johnson made further changes to the language to facilitate portability of the Unix operating system. Johnson's Portable C Compiler served as the basis for several implementations of C on new platforms.
+
+### Syntax
+
+As an imperative language, C uses statements to specify actions. The most common statement is an expression statement, consisting of an expression to be evaluated, followed by a semicolon; as a side effect of the evaluation, functions may be called and variables may be assigned new values. To modify the normal sequential execution of statements, C provides several control-flow statements identified by reserved keywords. Structured programming is supported by if(-else) conditional execution and by do-while, while, and for iterative execution (looping). The for statement has separate initialization, testing, and reinitialization expressions, any or all of which can be omitted. break and continue can be used to leave the innermost enclosing loop statement or skip to its reinitialization. There is also a non-structured goto statement which branches directly to the designated label within the function. switch selects a case to be executed based on the value of an integer expression.
+
+### Libraries
+
+The C programming language uses libraries as its primary method of extension. In C, a library is a set of functions contained within a single "archive" file. Each library typically has a header file, which contains the prototypes of the functions contained within the library that may be used by a program, and declarations of special data types and macro symbols used with these functions. In order for a program to use a library, it must include the library's header file, and the library must be linked with the program, which in many cases requires compiler flags (e.g., -lm, shorthand for "link the math library").
+
+## Python
+
+### History
+
+Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC language (itself inspired by SETL), capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989. Its most recent version, Python 3.0, was released on 3 December 2008. It was a major revision of the language that is not completely backward-compatible. Many of its major features were backported to Python 2.6x and 2.7.x version series. Releases of Python 3 include the 2to3 utility, which automates (at least partially) the translation of Python 2 code to Python 3.
+
+### Syntax
+
+Python is meant to be an easily readable language. Its formatting is visually uncluttered, and it often uses English keywords where other languages use punctuation. Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block. Thus, the program's visual structure accurately represents the program's semantic structure. This feature is also sometimes termed the off-side rule.
+
+### Libraries
+
+Python's large standard library, commonly cited as one of its greatest strengths, provides tools suited to many tasks. For Internet-facing applications, many standard formats and protocols such as MIME and HTTP are supported. It includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary precision decimals, manipulating regular expressions, and unit testing.
+
+## Java
+
+### History
+
+James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. Java was originally designed for interactive television, but it was too advanced for the digital cable television industry at the time. The language was initially called Oak after an oak tree that stood outside Gosling's office. Later the project went by the name Green and was finally renamed Java, from Java coffee. Gosling designed Java with a C/C++-style syntax that system and application programmers would find familiar.
+
+### Syntax
+
+The syntax of Java is largely influenced by C++. Unlike C++, which combines the syntax for structured, generic, and object-oriented programming, Java was built almost exclusively as an object-oriented language. All code is written inside classes, and every data item is an object, with the exception of the primitive data types, (i.e. integers, floating-point numbers, boolean values, and characters), which are not objects for performance reasons. Java reuses some popular aspects of C++ (such as the printf method).
+
+### Libraries
+
+The Java Class Library is the standard library, developed to support application development in Java. It is controlled by Sun Microsystems in cooperation with others through the Java Community Process program. Companies or individuals participating in this process can influence the design and development of the APIs.
+
+
+
+# Cute Cats
+
+I have decided to include three different animals belonging to the subfamily Felinae. These species were chosen because they are genetically similar, but are considered very different animals in common opinion. Additionally, these are the cutest cat-like species that I could find. F. catus is the common domesticated cat, L. pardinus is the Iberian Lynx, and P. concolor is a cougar. Although they are all related, they live in different habitats and live very different lives.
+
+## Felus catus - Common Cat
+
+### Summary
+
+The cat or domestic cat (Felis catus) is a small carnivorous mammal.It is the only domesticated species in the family Felidae. The cat is either a house cat, kept as a pet; or a feral cat, freely ranging and avoiding human contact. A house cat is valued by humans for companionship and for its ability to hunt rodents. About 60 cat breeds are recognized by various cat registries.
+
+### History
+
+It was long thought that cat domestication was initiated in Egypt, because cats in ancient Egypt were venerated since around 3100 BC. However, the earliest indication for the taming of an African wildcat (F. lybica) was found in Cyprus, where a cat skeleton was excavated close by a human Neolithic grave dating to around 7500 BC. African wildcats were probably first domesticated in the Near East. The leopard cat (Prionailurus bengalensis) was tamed independently in China around 5500 BC, though this line of partially domesticated cats leaves no trace in the domestic cat populations of today.
+
+### Impact on Humans
+
+As of 2007, the domestic cat was the second-most popular pet in the U.S. by number of pets owned, after freshwater fish. As of 2010, it was ranked the third-most popular pet in the UK, after fish and dogs, with around 8 million being owned.
+
+## Puma concolor - Cougar
+
+### Summary
+
+The cougar (Puma concolor), also commonly known as the puma, mountain lion, panther or catamount, is a large felid of the subfamily Felinae native to the Americas. Its range, from the Canadian Yukon to the southern Andes of South America, is the widest of any large wild terrestrial mammal in the Western Hemisphere. An adaptable, generalist species, the cougar is found in most American habitat types. It is the biggest cat in North America, and the second-heaviest cat in the New World after the jaguar. Secretive and largely solitary by nature, the cougar is properly considered both nocturnal and crepuscular, although daytime sightings do occur. The cougar is more closely related to smaller felines, including the domestic cat (subfamily Felinae), than to any species of subfamily Pantherinae, of which only the jaguar is native to the Americas.
+
+### History
+
+Intensive hunting following European colonization of the Americas and the ongoing human development of cougar habitat has caused populations to drop in most parts of its historical range. In particular, the North American cougar was extirpated in eastern North America in the beginning of the 20th century, except for the isolated Florida panther subpopulation.
+
+### Impact on Humans
+
+Transient males have been verified in Minnesota, Missouri, Iowa, Michigan, Indiana, and Illinois (where a cougar was shot in the city limits of Chicago), and in at least one instance, observed as far east as coastal Connecticut. Reports of eastern cougars (P. c. cougar) still surface, although it was declared extirpated in 2011.
+
+## Lynx pardinus - Iberian Lynx
+
+### Summary
+
+The Iberian lynx (Lynx pardinus) is a wild cat species native to the Iberian Peninsula in southwestern Europe that is listed as Endangered on the IUCN Red List. It preys almost exclusively on the European rabbit. In the 20th century, the Iberian lynx population declined because of sharp declines in rabbit populations, caused by myxomatosis, rabbit haemorrhagic disease and overhunting, fragmentation of grassland and forest habitats and poaching.
+
+### History
+
+Formerly considered a subspecies of the Eurasian lynx (Lynx lynx), the Iberian lynx is now classified as a separate species. Both species occurred together in Central Europe in the Pleistocene and evolved as distinct species in the Late Pleistocene. The Iberian lynx is thought to have evolved from Lynx issiodorensis.
+
+### Impact on Humans
+
+By the turn of the 21st century, the Iberian lynx was on the verge of extinction, as only about 100 individuals survived in two isolated subpopulations in Andalusia. Conservation measures implemented since 2002 included improving habitat, restocking of rabbits, translocating and re-introducing Iberian lynxes, so that by 2012 the population had increased to 326 individuals. As an attempt to save this species from extinction, projects under the EU LIFE Programme have undertaken habitat preservation, lynx population monitoring, and rabbit population management.
