@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>The Evolution of Visual Entertainment</title>
-</head>
+<?php include "inc/head.inc"; ?>
 
-<header>
-	<h1>Lab 4 - Information Architecture</h1>
-</header>
-
-<nav>
-	<ul>
-	<li><a href="entertainment.html">The Evolution of Visual Entertainment</a></li>
-	<li><a href="programming.html">Programming Languages</a></li>
-	<li><a href="cats.html">Cute Cats</a></li>
-	</ul>
-</nav>
+<?php include "inc/nav.inc"; ?>
 
 <main>
 	
@@ -23,7 +8,7 @@
 
 	<p>
 		Theatre, Cinema and Television are forms of visual entertainment were the audience watches a show or a performance. They are different medias through which a story can be narrated and represented. Each form of entertainment makes use of technology to enhance the visual representations. Cinema and Television make the most use of technology such as CGI and Special Effect. However, Theatre too can incorporate modern technologies such as projectors and digital screens to astonish and further immerse the audience in the narration.
-	<p>
+	</p>
 
 	<h3>Theatre - Since 600 BCE</h3>
 
@@ -88,5 +73,9 @@
 
 </main>
 
+<?php include "inc/footer.inc"; ?>
+<?php include 'inc/scripts.php';?>
+
+</div>
 
 </html>

@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Cats</title>
-</head>
+<?php include "inc/head.inc"; ?>
 
-<header>
-	<h1>Lab 4 - Information Architecture</h1>
-</header>
-
-<nav>
-	<ul>
-	<li><a href="entertainment.html">The Evolution of Visual Entertainment</a></li>
-	<li><a href="programming.html">Programming Languages</a></li>
-	<li><a href="cats.html">Cute Cats</a></li>
-	</ul>
-</nav>
+<?php include "inc/nav.inc"; ?>
 
 <main>
 	
@@ -23,7 +8,7 @@
 
 	<p>
 		I have decided to include three different animals belonging to the subfamily Felinae. These species were chosen because they are genetically similar, but are considered very different animals in common opinion. Additionally, these are the cutest cat-like species that I could find. F. catus is the common domesticated cat, L. pardinus is the Iberian Lynx, and P. concolor is a cougar. Although they are all related, they live in different habitats and live very different lives.
-	<p>
+	</p>
 
 	<h3>Felus catus - Common Cat</h3>
 
@@ -87,5 +72,10 @@
 
 
 </main>
+
+<?php include "inc/footer.inc"; ?>
+<?php include 'inc/scripts.php';?>
+
+</div>
 
 </html>
