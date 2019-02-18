@@ -11,5 +11,5 @@
 <div class="container">
 
 <header>
-	<h1>Lab 4 - Information Architecture</h1>
+	<h1>Spare-time activities</h1>
 </header>
