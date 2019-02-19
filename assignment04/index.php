@@ -31,7 +31,7 @@
 </main>
 
 <?php include "inc/footer.inc"; ?>
-<?php include 'inc/scripts.php';?>
+<?php include 'inc/scripts.inc';?>
 
 </div>
 
